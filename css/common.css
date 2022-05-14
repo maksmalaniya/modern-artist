@@ -22,3 +22,9 @@ p {
 .date {
     color: var(--date-paragraph-color);
 }
+
+.btn {
+    text-decoration:none;
+    color: var(--third-section-header-color);
+    font-family: 'Crimson Pro', serif;
+}
