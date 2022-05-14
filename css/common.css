@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro&family=PT+Sans&display=swap');
+
+:root {
+    --third-section-header-color: #fff;
+    background-color: black;
+    --paragraph-color: rgb(180,180,180);
+    --date-paragraph-color: #f4c524;
+}
+
+.third-section-header {
+    font-family: 'Crimson Pro', serif;
+    color: var(--third-section-header-color);
+}
+
+p {
+    color: var(--paragraph-color);
+    font-family: 'PT Sans', sans-serif;
+}
+
+.date {
+    color: var(--date-paragraph-color);
+}
