@@ -9,3 +9,17 @@ p {
 date{
     font-size: 15px;
 }
+
+.super-power-img {
+    width: 630px;
+    height: 410px;
+}
+
+.super-power{
+padding: 58px;
+}
+
+.super-power-only-text {
+    display: block;
+    padding: 39px 140px 39px 0px;
+}
