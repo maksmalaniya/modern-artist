@@ -45,6 +45,27 @@ p {
     background-color: var(--third-section-header-color);
 }
 
-@media (min-width: 768px) and (max-width: 991px) {
-    
+@media (min-width: 768px) {
+   .super-power {
+    display: flex;
+   }
+   .super-power-only-text{
+    position: relative;
+    left: -315px;
+    background-color: black;
+    min-width: 315px;
+   }
 }
+
+@media (min-width: 768px) {
+    .simplicity {
+     display: flex;
+     flex-direction: row-reverse;
+    }
+    .simplicity-only-text{
+    position: relative;
+     left: 315px;
+     background-color: black;
+     min-width: 315px;
+    }
+ }
