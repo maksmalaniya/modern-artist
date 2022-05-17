@@ -1,7 +1,9 @@
-h2 {
+.third-section-main-header {
     text-align: center;
     font-size: 62px;
     font-weight: 600;
+    color: var(--third-section-header-color);
+    font-family: 'Crimson Pro', serif;
 }
 
 .underline {
